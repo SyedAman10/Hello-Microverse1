@@ -23,8 +23,7 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-aman-238500196/)
 
 
-
-## Show your support
+# Show your support
 
 Give a ⭐️ if you like this project!
 
