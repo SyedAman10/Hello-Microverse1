@@ -296,7 +296,7 @@ _Pvt_Extensions
 .paket/paket.exe
 paket-files/
 
-# FAKE - F# Make
+# FAKE - F# Make 
 .fake/
 
 # CodeRush personal settings
