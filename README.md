@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Building a professional Github repo
 
 ![screenshot](./app_screenshot.png)
 
